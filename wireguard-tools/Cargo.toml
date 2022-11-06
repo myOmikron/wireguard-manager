@@ -1,0 +1,8 @@
+[package]
+name = "wireguard-tools"
+version = "0.0.0"
+edition = "2021"
+authors = ["myOmikron <git@omikron.dev>"]
+license = "MIT"
+
+[dependencies]
